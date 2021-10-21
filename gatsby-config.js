@@ -9,7 +9,7 @@ module.exports = {
       resolve: '@builder.io/gatsby',
       options: {
         /** TODO: update this with your API key! */
-        publicAPIKey: 'jdGaMusrVpYgdcAnAtgn',
+        publicAPIKey: 'd5b8b20dc181415283f3177a6ea6301c',
         // to allow editing on local host
         custom404Dev: path.resolve('src/pages/404.tsx'),
         templates: {

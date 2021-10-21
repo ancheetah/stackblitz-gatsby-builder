@@ -8,7 +8,7 @@ import '@builder.io/widgets';
 import '../components/Hero/Hero.builder';
 
 // TODO: enter your public API key
-builder.init('jdGaMusrVpYgdcAnAtgn');
+builder.init('d5b8b20dc181415283f3177a6ea6301c');
 
 const Dev404: React.SFC = () => {
   const [notFound, setNotFound] = React.useState(false);
